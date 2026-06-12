@@ -3,5 +3,5 @@
   "version": "1.0",
   "env": "prod",
   "debug": false,
-  "port": 3000
+  "port": 8080
 }
