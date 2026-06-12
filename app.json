@@ -3,5 +3,9 @@
   "version": "1.0",
   "env": "prod",
   "debug": false,
-  "port": 9000
+<<<<<<< HEAD
+  "port": 8080
+=======
+  "port": 8080
+>>>>>>> 11328499298b2ff14b8e97dfe1f8b64242e1bb15
 }
